@@ -1,0 +1,32 @@
+body {
+   background-color: #040404;
+}
+h3 {
+    color: #ffffff;
+}
+ul {
+    padding-left: 18px;
+}
+.red {
+    color:#ff3301;
+}
+.orange {
+    color: #cd6566;
+}
+.yellow {
+    color: #fdfe02;
+}
+.green {
+    color: #009900;
+}
+.blue_ligth {
+    color: #01cafe;
+}
+.blue {
+    color: #3400cf;
+}
+.section {
+    padding-left: 18px;
+    margin: 0 auto;
+    width: 200px;
+}
